@@ -1,0 +1,10 @@
+num1 = 1464
+num2 = 32
+sum_result = num1 + num2
+subtract_result = num1 - num2
+multiply_result = num1 * num2
+division_result = num1 / num2
+print("Addition:", sum_result)
+print("Subtraction:", subtract_result)
+print("Multiplication:", multiply_result)
+print("Division:", division_result)
